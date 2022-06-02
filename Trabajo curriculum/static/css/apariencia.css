@@ -1,0 +1,53 @@
+main {
+    display: flex;
+}
+
+#izquierda {
+    background-color: rgba(64, 64, 64, 1);
+    color: white;
+    font-size: large;
+    margin: auto, 0;
+    width: 250px;
+    padding: 0px 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#foto {
+    text-align: center;
+    border-radius: 50%;
+}
+
+.subtituloIzquierda {
+    text-align: center;
+    border-top: 10px solid rgba(192, 192, 192, 0.2);
+    border-bottom: 10px solid rgba(192, 192, 192, 0.2);
+}
+
+#datosIzquierda {
+    text-align: right;
+}
+
+#derecha {
+    background-color: white;
+    margin: auto, 0;
+    width: 850px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.subtituloDerecha {
+    border-bottom: 5px solid rgba(0, 0, 204, 0.5);
+
+}
+
+.secciones {
+    padding: 0px 0px 0px 37px;
+}
+
+#titulos {
+    line-height: 30px;
+}
